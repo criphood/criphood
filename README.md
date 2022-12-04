@@ -16,16 +16,16 @@ ___
 ### ***Skills:***
 
 [<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=">]()
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/VSC-000?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/><br>
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=Node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837"/>
-<img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>
-<img src="https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp&logoColor=CF4647"/>
+[<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">]()
+[<img src="https://img.shields.io/badge/VSC-000?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>]()
+[<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>]()
+[<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/><br>]()
+[<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB"/>]()
+[<img src="https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=Node.js&logoColor=339933"/>]()
+[<img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837"/>]()
+[<img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/>]()
+[<img src="https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>]()
+[<img src="https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp&logoColor=CF4647"/>]()
 
 ___
 
