@@ -1,4 +1,4 @@
-## Hello, i'm Artyom 👋##
+## Hello, i'm Artyom 👋
 
 ### Frontend Developer!
 ___
