@@ -6,10 +6,10 @@ ___
 
 ### ***You can contact me at:***
 
-* [<img align="left" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>&nbsp;Telegram](https://t.me/criphood);
-- [<img align="left" alt="LinkedIn" width="27px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png"/>&nbsp;LinkedIn](https://www.linkedin.com/in/criphood2304/);
-* [<img align="left" alt="Phone" width="26px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-23whatsapp-4102606_113811.png"/>&nbsp;]()+7(977)178-1430;
-- [<img align="left" alt="GMail" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png"/>&nbsp;]()criphood4life@gmail.com.
+* [<img align="left" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>Telegram](https://t.me/criphood);
+- [<img align="left" alt="LinkedIn" width="27px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png"/>LinkedIn](https://www.linkedin.com/in/criphood2304/);
+* [<img align="left" alt="Phone" width="26px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-23whatsapp-4102606_113811.png"/>]()+7(977)178-1430;
+- [<img align="left" alt="GMail" width="28px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png"/>]()criphood4life@gmail.com.
 
 
 ___
