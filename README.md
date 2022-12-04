@@ -1,9 +1,8 @@
-## Hello, i'm Artyom 👋
+# Hello, i'm Artyom 👋
 
-### Frontend Developer!
-&emsp;
+## Frontend Developer!
+
 ___
-
 ### ***You can contact me at:***
 
 * [<img align="left" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>Telegram](https://t.me/criphood);
@@ -28,7 +27,6 @@ ___
 [<img src="https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp&logoColor=CF4647"/>]()
 
 ___
-
 ### ***Codewars Profile:***
 [<img alt="Codewars" src="https://www.codewars.com/users/criphood/badges/large"/>](https://www.codewars.com/users/criphood)
 
