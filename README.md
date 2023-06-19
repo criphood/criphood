@@ -24,7 +24,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
-__
+___
 ### Codewars:
 [<img alt="Codewars" src="https://www.codewars.com/users/criphood/badges/large"/>](https://www.codewars.com/users/criphood)
 
