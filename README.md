@@ -29,14 +29,15 @@ ___
 [<img alt="Codewars" src="https://www.codewars.com/users/criphood/badges/large"/>](https://www.codewars.com/users/criphood)
 
 ___
-### ***Education and courses:***
+### Education and courses:
 * **University:** Saint-Petersburg State University of Telecommunication - Specialist Degree (2020);
-* **Courses:** RS School Stage0, Stage1.
+* **Courses:**
+** RS School Stage0, Stage1.
 
 &emsp;&emsp;<img alt="certificate" width="350px" src="./certificate.jpg">
 
 ___
-### ***Languages:***
+### Languages:
 * **Russian:** Native;
 * **English:** Intermediate (B1).
 
