@@ -12,16 +12,20 @@ Frontend Developer
 
 ### Skills:
 
-[<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>]()
-[<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>]()
-[<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB"/>]()
-[<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=">]()
-[<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">]()
-[<img src="https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=Node.js&logoColor=339933"/>]()
-[<img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837"/>]()
-[<img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/>]()
-[<img src="https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>]()
-[<img src="https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp&logoColor=CF4647"/>]()
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+</div>
 
 ___
 ### ***Codewars Profile:***
