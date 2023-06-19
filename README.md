@@ -43,7 +43,8 @@ ___
   </li>
 </ul>
 
-&emsp;&emsp;<img alt="certificate" width="350px" src="./certificate.jpg">
+&emsp;&emsp;<img alt="certificate" width="350px" src="./stage2.png">
+<img alt="certificate" width="350px" src="./react.png">
 
 ___
 ### Languages:
