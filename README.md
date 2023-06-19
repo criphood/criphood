@@ -36,9 +36,9 @@ ___
   </li>
   <li>
     <b>Courses:</b> 
-    <li>
-      RS School Stage0, Stage1.
-    </li>
+    <ul>
+      <li>RS School Stage0, Stage1.</li>
+    </ul>
   </li>
 </ul>
 
