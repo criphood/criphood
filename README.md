@@ -1,7 +1,7 @@
 ## Hello, i am Artyom 👋
 Frontend Developer
 
-
+__
 ### Contacts:
 
 - [<img align="left" alt="Telegram" width="23px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>Telegram](https://t.me/criphood);
@@ -9,7 +9,7 @@ Frontend Developer
 - [<img align="left" alt="Phone" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-23whatsapp-4102606_113811.png"/>]()+7(977)178-1430;
 - [<img align="left" alt="GMail" width="23px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png"/>]()criphood@yandex.ru
 
-
+__
 ### Skills:
 
 <div>
@@ -27,8 +27,8 @@ Frontend Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
-___
-### ***Codewars Profile:***
+__
+### Codewars:
 [<img alt="Codewars" src="https://www.codewars.com/users/criphood/badges/large"/>](https://www.codewars.com/users/criphood)
 
 ___
