@@ -1,7 +1,7 @@
-## Hello, i'm Artyom 👋
-### Frontend Developer!
-___
-### ***You can contact me at:***
+## Hello, i am Artyom 👋
+### Front-end Developer
+
+### Contacts:
 
 * [<img align="left" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>Telegram](https://t.me/criphood);
 - [<img align="left" alt="LinkedIn" width="27px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png"/>LinkedIn](https://www.linkedin.com/in/criphood2304/);
