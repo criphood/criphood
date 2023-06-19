@@ -1,5 +1,5 @@
 ## Hello, i am Artyom 👋
-### Front-end Developer
+Front-end Developer
 
 
 ### Contacts:
