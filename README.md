@@ -1,14 +1,14 @@
-## Hello, i am Artyom 👋
+## 👋 Hello, i am Artyom
 Frontend Developer
 ___
-### Contacts:
+### 🤝 Contacts:
 - [<img align="left" alt="Telegram" width="23px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>Telegram](https://t.me/criphood);
 - [<img align="left" alt="LinkedIn" width="23px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png"/>LinkedIn](https://www.linkedin.com/in/criphood2304/);
 - [<img align="left" alt="Phone" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-23whatsapp-4102606_113811.png"/>]()+7(977)178-1430;
 - [<img align="left" alt="GMail" width="23px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png"/>]()criphood@yandex.ru
 
 ___
-### Skills:
+### 💻 Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
@@ -25,11 +25,11 @@ ___
 </div>
 
 ___
-### Codewars:
+### 🔭 Codewars:
 [<img alt="Codewars" src="https://www.codewars.com/users/criphood/badges/large"/>](https://www.codewars.com/users/criphood)
 
 ___
-### Education and courses:
+### 🎓 Education and courses:
 <ul>
   <li>
     <b>University:</b> Saint-Petersburg State University of Telecommunication - Specialist Degree (2020);
