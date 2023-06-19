@@ -44,7 +44,7 @@ ___
 </ul>
 
 &emsp;&emsp;<img alt="frontend certificate" width="350px" src="./stage2.PNG">
-<img alt="react certificate" width="350px" src="./react.PNG">
+&emsp;<img alt="react certificate" width="350px" src="./react.PNG">
 
 ___
 ### Languages:
