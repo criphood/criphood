@@ -1,5 +1,5 @@
 ## Hello, i am Artyom 👋
-Front-end Developer
+Frontend Developer
 
 
 ### Contacts:
@@ -10,15 +10,13 @@ Front-end Developer
 - [<img align="left" alt="GMail" width="23px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png"/>]()criphood@yandex.ru
 
 
-___
-### ***Skills:***
+### Skills:
 
-[<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=">]()
-[<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">]()
-[<img src="https://img.shields.io/badge/VSC-000?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/>]()
 [<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>]()
 [<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/><br>]()
 [<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=61DAFB"/>]()
+[<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=">]()
+[<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">]()
 [<img src="https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=Node.js&logoColor=339933"/>]()
 [<img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837"/>]()
 [<img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/>]()
