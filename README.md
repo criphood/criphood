@@ -32,10 +32,10 @@ ___
 ### Education and courses:
 <ul>
   <li>
-    **University:** Saint-Petersburg State University of Telecommunication - Specialist Degree (2020);
+    <b>University:</b> Saint-Petersburg State University of Telecommunication - Specialist Degree (2020);
   </li>
   <li>
-    **Courses:** RS School Stage0, Stage1.
+    <b>Courses:</b> RS School Stage0, Stage1.
   </li>
 </ul>
 
