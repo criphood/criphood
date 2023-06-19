@@ -37,7 +37,8 @@ ___
   <li>
     <b>Courses:</b> 
     <ul>
-      <li>RS School Stage0, Stage1.</li>
+      <li>RS School Javascript/Front-end;</li>
+      <li>RS School React.</li>
     </ul>
   </li>
 </ul>
